@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.521577c5.css",
+    "main.js": "/static/js/main.76522c7e.js",
+    "static/media/Md. Obaidur Rahman.jpg": "/static/media/Md. Obaidur Rahman.d0fc89707399e294bad7.jpg",
+    "static/media/kuddus.jpg": "/static/media/kuddus.8094fbcc3b7f76d834f9.jpg",
+    "static/media/pritom.jpg": "/static/media/pritom.cdba36bb6cc997cb6333.jpg",
+    "static/media/pngwing.png": "/static/media/pngwing.06ce25d11ee80aa004e7.png",
+    "static/media/group_members.PNG": "/static/media/group_members.5a4143d525ca4b6e481a.PNG",
+    "static/media/project_instructor.PNG": "/static/media/project_instructor.9fa3b43e61a87112bff1.PNG",
+    "static/media/jahid.jpg": "/static/media/jahid.3f9b25b140e58d6c9ae0.jpg",
+    "static/media/sanjoy.png": "/static/media/sanjoy.f85bbe7eea71828458f1.png",
+    "static/media/fathema.jpg": "/static/media/fathema.e04cb365091acb1028cd.jpg",
+    "static/media/predictive.png": "/static/media/predictive.be485385efb5413f4891.png",
+    "static/media/Khandaker Iftakher Ahmed.jpg": "/static/media/Khandaker Iftakher Ahmed.cab2c20c1403cdf211a8.jpg",
+    "static/media/rifat.jpg": "/static/media/rifat.3d75c8e66c547637bc3a.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.521577c5.css.map": "/static/css/main.521577c5.css.map",
+    "main.76522c7e.js.map": "/static/js/main.76522c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521577c5.css",
+    "static/js/main.76522c7e.js"
+  ]
+}
